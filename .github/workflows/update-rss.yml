@@ -1,4 +1,4 @@
-name: Master
+name: Update readme base on rss feed
 on:
   push:
     branches:
