@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-Hi am Ales Lerch (axell) Platform engenieer at sanezoo.com, code in pyhton all the time but also I use docker every where I can! 
+I am Ales Lerch (axell) Platform engenieer at sanezoo.com (industrial automation startup), code in python all the time but also I use docker everywhere I can! 
 Huge fan of FOSS, and privacy btw. 
 
 Find me at:
