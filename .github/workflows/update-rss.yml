@@ -1,10 +1,11 @@
-name: Update this repo's README
-
+name: Master
 on:
+  push:
+    branches:
+      - main
   schedule:
-    # Once a day at 8 AM
-    - cron: "*/4 * * * *"
-
+    - cron: '*/2 * * * *'
+    
 jobs:
   update:
     runs-on: ubuntu-latest
