@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello there 👋
+
+Hi am Ales Lerch (axell) Platform engenieer at sanezoo.com, code in pyhton all the time but also I use docker every where I can! 
+Huge fan of FOSS, and privacy btw. 
+
+Find me at:
+
+### [🌐 axell.dev](https://axell.dev)
+### [@ linkedin](https://linkedin.com/in/yxhlbgwk)
 
 <!--
 **axeII/axeII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<hr />
+
+
+### 📙 Blog Posts
+<!--START_SECTION:feed-->
+<!--END_SECTION:feed-->
