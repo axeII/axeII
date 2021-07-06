@@ -4,7 +4,8 @@ on:
     branches:
       - main
   schedule:
-    - cron: '*/2 * * * *'
+    # run once a week
+    - cron: '0 0 * * 0'
     
 jobs:
   update:
