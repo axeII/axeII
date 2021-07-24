@@ -13,6 +13,6 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: https://jasonet.co/rss.xml
+          feed-url: https://axell.dev/rss/
           readme-section: feed
           branch: main
