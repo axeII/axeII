@@ -1,13 +1,13 @@
 ### Hello there 👋
 
-I am a Software engenieer at sanezoo.com (industrial automation startup). I code in python all the time but also like to setup servers and deploy stuff in kubernetes (or docker). I like to automate stuff with ansible and docker. I am also huge fan of FOSS, and privacy.
+I am a Software engenieer at sanezoo.com (industrial automation startup). I code in python all the time but I also like to automate and deploy stuff in ✨kubernetes✨ (or docker). Btw huge fan of FOSS, and privacy.
 
-Oh and since you are here why don't you checkout my ✨[blog](https://axell.dev)✨
+
 
 * 🔨 Skills: Python, Docker, Kubernetes, Linux
 * 🌍 Languages: English.
 * 🔑 PGP Signing Key: [https://axell.dev/pgp-key.txt](https://objectstorage.eu-frankfurt-1.oraclecloud.com/p/wKk_MwwAhhiAz7uo6JcxJcRIt7asMwuGf7K3kUOC-zKvSTsro2GzXrvnfC3bV3sh/n/frfp0gdrmei7/b/my-personal-bucket/o/gpg-key.txt)
-* 📫 Reach me out at Linkedin: [@linkedin](https://linkedin.com/in/yxhlbgwk)
+* 📫 Reach out at Linkedin: [@linkedin](https://linkedin.com/in/yxhlbgwk)
 
 ### 🖊 My recent blog Posts
 <!--START_SECTION:feed-->
@@ -24,6 +24,10 @@ Oh and since you are here why don't you checkout my ✨[blog](https://axell.dev)
 </a>
 
 ![Visitors since 12/06/2021](https://visitor-badge.glitch.me/badge?page_id=axeII.github.readme)
+
+
+
+
 
 
 
