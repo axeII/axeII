@@ -11,11 +11,11 @@ Oh and since you are here why don't you checkout my ✨[blog](https://axell.dev)
 
 ### 🖊 My recent blog Posts
 <!--START_SECTION:feed-->
-* [My home lab: Upgrade 2.0](https:&#x2F;&#x2F;axell.dev&#x2F;my-home-lab&#x2F;)
-* [Netflix on macOS](https:&#x2F;&#x2F;axell.dev&#x2F;netlifx-on-macos&#x2F;)
-* [Helpful guide to write Github issues](https:&#x2F;&#x2F;axell.dev&#x2F;how-to-write-github-issue&#x2F;)
-* [Firewalld doesn&#39;t go well with Docker](https:&#x2F;&#x2F;axell.dev&#x2F;how-run-firewalld-with-docker&#x2F;)
-* [Duplicate key value violates unique constraint](https:&#x2F;&#x2F;axell.dev&#x2F;database&#x2F;)
+* [Assorted thoughts on documentation](https:&#x2F;&#x2F;jasonet.co&#x2F;posts&#x2F;thoughts-on-docs&#x2F;)
+* [On &quot;lurking&quot;](https:&#x2F;&#x2F;jasonet.co&#x2F;posts&#x2F;on-lurking&#x2F;)
+* [Probot App or GitHub Action? (Updated)](https:&#x2F;&#x2F;jasonet.co&#x2F;posts&#x2F;probot-app-or-github-action-v2&#x2F;)
+* [Build your own Probot](https:&#x2F;&#x2F;jasonet.co&#x2F;posts&#x2F;build-your-own-probot&#x2F;)
+* [New features of GitHub Actions v2](https:&#x2F;&#x2F;jasonet.co&#x2F;posts&#x2F;new-features-of-github-actions&#x2F;)
 <!--END_SECTION:feed-->
 
 
