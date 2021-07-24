@@ -19,11 +19,14 @@ I am a Software engenieer at sanezoo.com (industrial automation startup). I code
 <!--END_SECTION:feed-->
 
 
+![Visitors since 12/06/2021](https://visitor-badge.glitch.me/badge?page_id=axeII.github.readme)
+<br>
 <a href="https://twitter.com/axeII_dev">
-  <img align="left" alt="My Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="axell" width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="axell" height="30" width="30" />
 </a>
 
-![Visitors since 12/06/2021](https://visitor-badge.glitch.me/badge?page_id=axeII.github.readme)
 
 
 
