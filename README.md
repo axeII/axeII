@@ -6,7 +6,7 @@ I am a Software engenieer at sanezoo.com (industrial automation startup). I code
 
 * 🔨 Skills: Python, Docker, Kubernetes, Linux
 * 🌍 Languages: English.
-* 🔑 PGP Signing Key: [https://axell.dev/pgp-key.txt](https://objectstorage.eu-frankfurt-1.oraclecloud.com/p/wKk_MwwAhhiAz7uo6JcxJcRIt7asMwuGf7K3kUOC-zKvSTsro2GzXrvnfC3bV3sh/n/frfp0gdrmei7/b/my-personal-bucket/o/gpg-key.txt)
+* 🔑 PGP Signing Key: [pgp-key.txt](https://objectstorage.eu-frankfurt-1.oraclecloud.com/p/wKk_MwwAhhiAz7uo6JcxJcRIt7asMwuGf7K3kUOC-zKvSTsro2GzXrvnfC3bV3sh/n/frfp0gdrmei7/b/my-personal-bucket/o/gpg-key.txt)
 * 📫 Reach out at Linkedin: [@linkedin](https://linkedin.com/in/yxhlbgwk)
 
 ### 🖊 My recent blog Posts
