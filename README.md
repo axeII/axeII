@@ -5,9 +5,9 @@ I am a Software engenieer at sanezoo.com (industrial automation startup). I code
 
 
 * 🔨 Skills: Python, Docker, Kubernetes, Linux
-* 🌍 Languages: English.
+* 🌍 Languages: English, Czech and German(B2).
 * 🔑 PGP Signing Key: [pgp-key.txt](https://objectstorage.eu-frankfurt-1.oraclecloud.com/p/wKk_MwwAhhiAz7uo6JcxJcRIt7asMwuGf7K3kUOC-zKvSTsro2GzXrvnfC3bV3sh/n/frfp0gdrmei7/b/my-personal-bucket/o/gpg-key.txt)
-* 📫 Reach out at Linkedin: [@linkedin](https://linkedin.com/in/yxhlbgwk)
+* 📫 Reach me out at Linkedin: [@linkedin](https://linkedin.com/in/yxhlbgwk)
 
 ### 🖊 My recent blog Posts
 <!--START_SECTION:feed-->
