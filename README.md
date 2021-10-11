@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I am a Devops/SRE/Sysadmin at sanezoo.com (industrial automation startup). I deploy services in ✨kubernetes✨ (or docker) and sometimes do the sysadmin stuff. I also like to automate things as possible. Btw I am huge fan of FOSS, and privacy. I am interested also in cyber security.
+I am a Devops/SRE/Sysadmin at [sanezoo.com](https://sanezoo.com) (an industrial automation startup). I deploy services in ✨kubernetes✨ (or docker) and sometimes do the sysadmin stuff. I also like to automate things as possible. Btw I am huge fan of FOSS, and privacy. I am interested also in cyber security.
 
 
 
