@@ -1,11 +1,11 @@
 ### Hello there 👋
 
-I am a Software engenieer at sanezoo.com (industrial automation startup). I code in python all the time but I also like to automate and deploy stuff in ✨kubernetes✨ (or docker). Btw huge fan of FOSS, and privacy.
+I am a Devops/SRE/Sysadmin at sanezoo.com (industrial automation startup). I deploy services in ✨kubernetes✨ (or docker) and sometimes do the sysadmin stuff. I also like to automate things as possible. Btw I am huge fan of FOSS, and privacy. I am interested also in cyber security.
 
 
 
 * 🔨 Skills: Python, Docker, Kubernetes, Linux
-* 🌍 Languages: English, Czech and German(B2).
+* 🌍 Languages: English, Czech and German.
 * 🔑 PGP Signing Key: [pgp-key.txt](https://objectstorage.eu-frankfurt-1.oraclecloud.com/p/wKk_MwwAhhiAz7uo6JcxJcRIt7asMwuGf7K3kUOC-zKvSTsro2GzXrvnfC3bV3sh/n/frfp0gdrmei7/b/my-personal-bucket/o/gpg-key.txt)
 * 📫 Reach me out at Linkedin: [@linkedin](https://linkedin.com/in/yxhlbgwk)
 
