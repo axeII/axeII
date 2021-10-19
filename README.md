@@ -1,13 +1,37 @@
+
+```console
+$ neofetch
+                   .~vVeZNgQBBBQQg9Ze1v~.                   
+              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 axell@Macbookm.local 
+           -Lq#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#qr-              -------------------
+        .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.           Uptime: 10 years
+      _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Code: Python, Django, YAML, 2 others...
+    `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       OS: macOS 11.5.2 arm64 
+   ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: fish 3.2.2 
+  ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editors: VSCode, VIM
+ :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Crontab: Coding, Reversing, (Eth.) Hacking
+_g@@@@@@@@@@2-                                `M@@@@@@@@@@0    Home: /home/Notselwyn
+a@@@@@@@@@@2                                    v@@@@@@@@@@;    
+#@@@@@@@@@@_                                     @@@@@@@@@@y   contact information
+@@@@@@@@@@@.                                     @@@@@@@@@@%   -------------------
+#@@@@@@@@@@r                                    :@@@@@@@@@@s   Website: axell.dev
+W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   LinkedIn: yxhlbgwk
+~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#    twitter: @axell_dev
+ ;@@@@@@@@@@@@6^.                          `\p@@@@@@@@@@@@~    Github: axell
+  n@@@@@PlVd@@@@#6Vv~_`              `_!?zd#@@@@@@@@@@@@#n     
+   2#@@@#hr _Y#@@@@@@@#q`          `X#@@@@@@@@@@@@@@@@@#~      
+    .d@@@@@D` .n6#@@@#V`             Q@@@@@@@@@@@@@@@@d.       compiling projects
+      x0@@@@0^   `__-                M@@@@@@@@@@@@@@0=         ------------------
+        =p#@@@#%Il]]L1,              M@@@@@@@@@@@#V=           Home Kuberentes Cluster: ~/home-cluster
+          `vR#@@@@@@@@?              M@@@@@@@@#Pv`             Functional programing language: ~/husky
+              "Lf8@@@@v              q@@@#Qa?:                 Concept of WAF: ~/securing-backend
+                  -!v|`              _?v!`                     
+```
+
 ### Hello there 👋
 
-I am a Devops/SRE/Sysadmin at [sanezoo.com](https://sanezoo.com) (an industrial automation startup). I deploy services in ✨kubernetes✨ (or docker) and sometimes do the sysadmin stuff. I also like to automate things as possible. Btw I am huge fan of FOSS, and privacy. I am interested also in cyber security.
+I am a Devops/SRE/Sysadmin at [sanezoo.com](https://sanezoo.com) (an industrial automation startup). I enjoy work with tools like ✨kubernetes✨, docker, ansible, linux, btrfs since they make my life easier. Work or at home. Huge fan of FOSS, privacy and cyber security.
 
-
-
-* 🔨 Skills: Python, Docker, Kubernetes, Linux
-* 🌍 Languages: English, Czech and German.
-* 🔑 PGP Signing Key: [pgp-key.txt](https://objectstorage.eu-frankfurt-1.oraclecloud.com/p/wKk_MwwAhhiAz7uo6JcxJcRIt7asMwuGf7K3kUOC-zKvSTsro2GzXrvnfC3bV3sh/n/frfp0gdrmei7/b/my-personal-bucket/o/gpg-key.txt)
-* 📫 Reach me out at Linkedin: [@linkedin](https://linkedin.com/in/yxhlbgwk)
 
 ### 🖊 My recent blog Posts
 <!--START_SECTION:feed-->
