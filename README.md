@@ -9,8 +9,8 @@ $ neofetch
     `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       OS: macOS 11.5.2 arm64 
    ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: fish 3.2.2 
   ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editors: VSCode, VIM
- :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Crontab: Coding, Reversing, (Eth.) Hacking
-_g@@@@@@@@@@2-                                `M@@@@@@@@@@0    Home: /home/Notselwyn
+ :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Interents: DevOps, Python, (Eth.) Hacking
+_g@@@@@@@@@@2-                                `M@@@@@@@@@@0    Home: /home/axell
 a@@@@@@@@@@2                                    v@@@@@@@@@@;    
 #@@@@@@@@@@_                                     @@@@@@@@@@y   contact information
 @@@@@@@@@@@.                                     @@@@@@@@@@%   -------------------
