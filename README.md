@@ -35,11 +35,11 @@ I am a Devops/SRE/Sysadmin at [sanezoo.com](https://sanezoo.com) (an industrial 
 
 ### 🖊 My recent blog Posts
 <!--START_SECTION:feed-->
+* [How I caught crypto miner on company servers](https:&#x2F;&#x2F;axell.dev&#x2F;how-i-caught-crypto-miner-on-company-servers&#x2F;)
+* [Simple fix for macOS issue with NFS](https:&#x2F;&#x2F;axell.dev&#x2F;simple-fix-for-macos-issue-with-nfs&#x2F;)
+* [Use touchID for sudo in terminal instead of password](https:&#x2F;&#x2F;axell.dev&#x2F;use-touchid-for-sudo-in-terminal-instead-of-password&#x2F;)
 * [My home lab: Upgrade 2.0](https:&#x2F;&#x2F;axell.dev&#x2F;my-home-lab&#x2F;)
 * [Netflix on macOS](https:&#x2F;&#x2F;axell.dev&#x2F;netlifx-on-macos&#x2F;)
-* [Helpful guide to write Github issues](https:&#x2F;&#x2F;axell.dev&#x2F;how-to-write-github-issue&#x2F;)
-* [Firewalld doesn&#39;t go well with Docker](https:&#x2F;&#x2F;axell.dev&#x2F;how-run-firewalld-with-docker&#x2F;)
-* [Duplicate key value violates unique constraint](https:&#x2F;&#x2F;axell.dev&#x2F;database&#x2F;)
 <!--END_SECTION:feed-->
 
 
