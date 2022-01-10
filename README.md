@@ -30,7 +30,7 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   LinkedIn: yxhlbgw
 
 ### Hello there 👋
 
-I am a Devops/SRE/Sysadmin at [sanezoo.com](https://sanezoo.com) (an industrial automation startup). I enjoy work with tools like ✨kubernetes✨, docker, ansible, linux, terraform, proxmox, btrfs since they make my life easier at work and at home. Huge fan of FOSS, privacy and cyber security.
+I am a Devops engineer. I enjoy work with tools like shiny ✨kubernetes✨, docker, ansible, linux, terraform, proxmox, btrfs since they make my life easier at work and at home. Huge fan of FOSS, privacy and cyber security.
 
 
 ### 🖊 My recent blog Posts
