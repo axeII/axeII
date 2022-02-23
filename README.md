@@ -30,8 +30,9 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   LinkedIn: yxhlbgw
 
 ### Hello there 👋
 
-I am a Devops engineer. I enjoy work with tools like shiny ✨kubernetes✨, docker, ansible, linux, terraform, proxmox, btrfs since they make my life easier at work and at home. Huge fan of FOSS, privacy and cyber security.
+and welcome to my space. My mission here on github is to become better DevOps engineer while using well known tools and solutions while being open and share it with the comunnity. I guess that the goal is to automate stuff as much as possible 🤖. I also write blog where I share my ideas, solutions and stories about my work. Feel free to checkout some post there might be usefull you. 
 
+See you around :octocat:
 
 ### 🖊 My recent blog Posts
 <!--START_SECTION:feed-->
@@ -44,14 +45,18 @@ I am a Devops engineer. I enjoy work with tools like shiny ✨kubernetes✨, doc
 
 
 <!-- ![Visitors since 12/06/2021](https://visitor-badge.glitch.me/badge?page_id=axeII.github.readme) -->
-<br>
-<a href="https://twitter.com/axeII_dev">
+
+ <br />
+  <a target="_blank" href="https://github.com/onedr0p">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=axeII&show_icons=true&theme=synthwave&count_private=true&hide=stars" />
+  </a>
+  
+  
+  <!--<a href="https://twitter.com/axeII_dev">
   <img align="left" alt="axell" width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/yxhlbgwk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="axell" height="30" width="30" />
-</a>
-
-
+</a>-->
 
 
 
