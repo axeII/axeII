@@ -36,11 +36,11 @@ See you around :octocat:
 
 ### 🖊 My recent blog Posts
 <!--START_SECTION:feed-->
+* [How to migrate azure DNS to Cloudflare](https:&#x2F;&#x2F;axell.dev&#x2F;how-to-migrate-azure-dns-to-cloudflare&#x2F;)
 * [How I caught crypto miner on company servers](https:&#x2F;&#x2F;axell.dev&#x2F;how-i-caught-crypto-miner-on-company-servers&#x2F;)
 * [Simple fix for macOS issue with NFS](https:&#x2F;&#x2F;axell.dev&#x2F;simple-fix-for-macos-issue-with-nfs&#x2F;)
 * [Use touchID for sudo in terminal instead of password](https:&#x2F;&#x2F;axell.dev&#x2F;use-touchid-for-sudo-in-terminal-instead-of-password&#x2F;)
 * [My home lab: Upgrade 2.0](https:&#x2F;&#x2F;axell.dev&#x2F;my-home-lab&#x2F;)
-* [Netflix on macOS](https:&#x2F;&#x2F;axell.dev&#x2F;netlifx-on-macos&#x2F;)
 <!--END_SECTION:feed-->
 
 
