@@ -30,7 +30,7 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   LinkedIn: yxhlbgw
 
 ### Hello there 👋
 
-and welcome to my space. My mission here on github is to become better DevOps engineer while using well known tools and solutions while being open and share it with the comunnity. I guess that the goal is to automate stuff as much as possible 🤖. I also write blog where I share my ideas, solutions and stories about my work. Feel free to checkout some post there might be usefull you. 
+and welcome to my space. My goal here on github is to become better DevOps engineer and SecOps. Github is great place for the tools and learning material one needs. And since what you get from comunnity one should also share - I write blog where write stuff about DevOps and cyber security.
 
 See you around :octocat:
 
